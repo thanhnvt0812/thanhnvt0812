@@ -1,7 +1,7 @@
 ![MasterHead](https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width=300" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
+<img align="right" alt="Coding" width=200" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 
 - 🌱 I’m currently learning **Many things**
 
