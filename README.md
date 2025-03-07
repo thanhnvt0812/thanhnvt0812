@@ -1,21 +1,15 @@
 ![MasterHead](https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif)
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A passionate developer</h3>
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="flex: 1;">
-        <ul>
-            <li>🌱 I’m currently learning <strong>Many things</strong></li>
-            <li>📫 How to reach me <strong>thanhnvt.4work@gmail.com</strong></li>
-        </ul>
+<img align="right" alt="Coding" width=400px" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 
-        <h3>Connect with me:</h3>
-        <p></p>
-    </div>
-    <div>
-        <img style="width: 400px; height: auto;" alt="Coding" 
-             src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
-    </div>
-</div>
+- 🌱 I’m currently learning **Many things**
+
+- 📫 How to reach me **thanhnvt.4work@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ---
 
