@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400px" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 
-- 🌱 I’m currently learning **Many things**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **thanhnvt.4work@gmail.com**
 
@@ -16,7 +16,6 @@
 ### 🧰 Languages and Tools
 
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
